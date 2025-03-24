@@ -1,6 +1,6 @@
-<!-- Space Animated Header -->
+<!-- Animated Space Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749543-b08334ae-7cf5-4509-96e3-120fb65a7a83.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/82918156/171365789-dff50793-0d5b-4f34-8c7c-5fd2ed7702b6.gif" width="100%" />
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  🔥 Passionate about AI, Full-Stack Development & Automation <br>  
+  🌌 Passionate about AI, Full-Stack Development & Automation <br>  
   🚀 Building scalable apps with MERN, Java, and AI tools  
   🎨 Crafting intuitive & modern UI/UX  
   ⚡ Exploring Generative AI & Mobile App Development  
@@ -16,50 +16,43 @@
 
 ---
 
-<!-- Space Themed Background -->
+<!-- Cool Space Animation -->
 <p align="center">
-  <img src="https://i.imgur.com/Nc5uJ5R.gif" width="100%"/>
+  <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80%">
 </p>
 
 ---
 
 ### 🚀 **What I Do**
-- 🏗 **Build AI-Powered & Full-Stack Apps** (Web & Mobile)  
-- 💡 **Automate Workflows** using AI & No-Code Tools  
-- 🎨 **Design Aesthetic UI/UX** for Engaging User Experiences  
+- 🏗 **Develop AI-Powered & Full-Stack Applications**  
+- 🎨 **Design Stunning UI/UX & Interactive Web/Mobile Apps**  
 - 🔍 **Analyze & Visualize Data** with SQL & Power BI  
+- ⚡ **Automate Workflows** using AI & No-Code Tools  
 
 ---
 
-### 🌟 **Tech & Tools I Use**
+### 🌟 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,html,css,js,git,figma,flutter" />
 </p>
 
 ---
 
-### 🎬 **Interactive Space-Themed Banner**
-<p align="center">
-  <img src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80%">
-</p>
-
----
-
-### 🚀 **Recent Projects**
-🔹 **SpamX** – AI-driven scam detection for SMS, WhatsApp & Telegram  
-🔹 **Food Delivery App** – Modern UI like Zomato/Swiggy (React + Firebase)  
+### 🚀 **Latest Projects**
+🔹 **SpamX** – AI-powered scam detection for SMS, WhatsApp & Telegram  
+🔹 **Food Delivery App** – UI like Zomato/Swiggy (React + Firebase)  
 🔹 **Online Learning Platform** – MERN-based e-learning system  
 
 ---
 
-### 🎨 **Creative Stuff**
-🖌️ **I love designing futuristic UI** with smooth animations  
-🤖 **I experiment with AI tools** to create unique projects  
-📱 **Exploring cross-platform mobile apps** (Flutter, React Native)  
+### 🎨 **Cool Stuff**
+🎨 **I love futuristic UI/UX designs**  
+🤖 **Exploring AI-driven development**  
+📱 **Building cross-platform mobile apps**  
 
 ---
 
-### 📬 **Let’s Connect!**
+### 📬 **Connect With Me**
 <p align="center">
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -77,4 +70,4 @@
 
 ---
 
-✨ **Fun Fact:** _"I turn ideas into interactive experiences using cutting-edge tech!"_ 🚀  
+✨ **"I turn ideas into interactive experiences using cutting-edge tech!"** 🚀  
