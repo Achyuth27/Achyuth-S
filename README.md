@@ -1,5 +1,10 @@
+<!-- Space Animated Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749543-b08334ae-7cf5-4509-96e3-120fb65a7a83.gif" width="100%" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Achyuth+%F0%9F%91%8B;Full+Stack+Developer;AI+Enthusiast+%7C+MERN+%7C+Java;Building+Next-Gen+Tech!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Achyuth+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Next-Gen+Tech!+🚀" />
 </h1>
 
 <p align="center">
@@ -11,7 +16,14 @@
 
 ---
 
-### 🎯 **What I Do**
+<!-- Space Themed Background -->
+<p align="center">
+  <img src="https://i.imgur.com/Nc5uJ5R.gif" width="100%"/>
+</p>
+
+---
+
+### 🚀 **What I Do**
 - 🏗 **Build AI-Powered & Full-Stack Apps** (Web & Mobile)  
 - 💡 **Automate Workflows** using AI & No-Code Tools  
 - 🎨 **Design Aesthetic UI/UX** for Engaging User Experiences  
@@ -22,6 +34,13 @@
 ### 🌟 **Tech & Tools I Use**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,html,css,js,git,figma,flutter" />
+</p>
+
+---
+
+### 🎬 **Interactive Space-Themed Banner**
+<p align="center">
+  <img src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80%">
 </p>
 
 ---
@@ -59,9 +78,3 @@
 ---
 
 ✨ **Fun Fact:** _"I turn ideas into interactive experiences using cutting-edge tech!"_ 🚀  
-
-</p>
-
----
-
-✨ **Fun Fact:** _"I'm building innovative projects using AI and full-stack technologies!"_ 🚀  
