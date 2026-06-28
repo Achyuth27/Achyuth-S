@@ -1,6 +1,6 @@
 <!-- JJK User Uploaded Animated Cinematic Banner -->
 <p align="center">
-  <img src="undefined - Imgur.gif" width="100%" alt="JJK Cinematic Banner" />
+  <img src="sukuna-sukuna-vs-gojo.gif" width="100%" alt="JJK Cinematic Banner" />
 </p>
 
 <!-- Dynamic Typing Status Vector -->
