@@ -14,44 +14,36 @@
 
 ---
 
-<!-- Side-by-Side Dual Column Theme (Clean Aesthetic Layout) -->
+<!-- Side-by-Side Dual Column Theme (Fixed Layout) -->
 <table border="0" width="100%">
-  <tr>
-    <!-- Left Column: Gojo Infinite Blue Aesthetic -->
-    <td width="50%" valign="top" style="border-right: 1px solid #25C3E2; padding-right: 15px;">
-      <h3 align="center">
-        <span style="color: #25C3E2;">🧠 Core Technical Focus</span>
-      </h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0eG5wN3R0NHd0M2E4dHExbTgwazZubWdzcGoxbndwMmE0aDk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7p0qKPII/giphy.gif" width="70%" alt="Gojo Animation" />
-      </p>
-      <ul>
-        <li><b>Computer Vision:</b> Object detection, real-time tracking, and high-accuracy image segmentation.</li>
-        <li><b>Deep Learning:</b> Architecture design, custom model training, and hyperparameter optimization.</li>
-      </ul>
-    </td>
-
-    <!-- Right Column: Sukuna Dark Crimson Aesthetic -->
-    <td width="50%" valign="top" style="padding-left: 15px;">
-      <h3 align="center">
-        <span style="color: #E22525;">⚙️ MLOps & Data Systems</span>
-      </h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2dnFwZXZoNmx6YW8xbDJmd205amRjbmhrZGl6NDV5dGhyYTN3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X78rQrII0S2Ff9g9S6/giphy.gif" width="70%" alt="Sukuna Animation" />
-      </p>
-      <ul>
-        <li><b>Data Engineering:</b> Building scalable ETL pipelines and cleaning complex datasets.</li>
-        <li><b>Model Deployment:</b> Containerization via Docker and cloud deployment on AWS/GCP pipelines.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top" style="border-right: 1px solid #25C3E2; padding-right: 15px;">
+<h3 align="center"><span style="color: #25C3E2;">🧠 Core Technical Focus</span></h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0eG5wN3R0NHd0M2E4dHExbTgwazZubWdzcGoxbndwMmE0aDk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7p0qKPII/giphy.gif" width="70%" alt="Gojo Animation" />
+</p>
+<ul>
+  <li><b>Computer Vision:</b> Object detection, real-time tracking, and high-accuracy image segmentation.</li>
+  <li><b>Deep Learning:</b> Architecture design, custom model training, and hyperparameter optimization.</li>
+</ul>
+</td>
+<td width="50%" valign="top" style="padding-left: 15px;">
+<h3 align="center"><span style="color: #E22525;">⚙️ MLOps & Data Systems</span></h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2dnFwZXZoNmx6YW8xbDJmd205amRjbmhrZGl6NDV5dGhyYTN3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X78rQrII0S2Ff9g9S6/giphy.gif" width="70%" alt="Sukuna Animation" />
+</p>
+<ul>
+  <li><b>Data Engineering:</b> Building scalable ETL pipelines and cleaning complex datasets.</li>
+  <li><b>Model Deployment:</b> Containerization via Docker and cloud deployment on AWS/GCP pipelines.</li>
+</ul>
+</td>
+</tr>
 </table>
 
 ---
 
 ### 🛠️ **Technical Stack**
 <p align="center">
-  <!-- Clean tech icons grid matching the professional layout in image_4192a5.png -->
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit_learn,numpy,pandas,mysql,mongodb,docker,aws,gcp,linux" alt="AI Tech Stack" />
 </p>
 
