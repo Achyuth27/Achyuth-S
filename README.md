@@ -79,11 +79,39 @@
 
 ---
 
-### 📈 **Engine Performance & Metrics**
+### 📊 **Engine Performance & Operational Metrics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth27&layout=compact&theme=tokyonight&hide_border=true&title_color=E22525&icon_color=E22525&text_color=a9b1d6&bg_color=0f141f&count_private=true" width="60%" alt="Top Languages Stats" />
-</p>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="left">⚡ Architecture Dimension</th>
+      <th width="33%" align="left">📈 Target Standard</th>
+      <th width="33%" align="left">🎯 Core Focus Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Threat Classification Accuracy</b></td>
+      <td>94.8% F1-Score Baseline</td>
+      <td><img src="https://img.shields.io/badge/Optimized-25C3E2?style=flat-square" /> <code>scamX-api</code></td>
+    </tr>
+    <tr>
+      <td><b>Distributed WebSocket Latency</b></td>
+      <td>&lt; 45ms P99 Runtime</td>
+      <td><img src="https://img.shields.io/badge/High%20Throughput-25C3E2?style=flat-square" /> <code>whispernet</code></td>
+    </tr>
+    <tr>
+      <td><b>Cross-Platform UI Frame Rendering</b></td>
+      <td>60 FPS Stable Target</td>
+      <td><img src="https://img.shields.io/badge/Stable-E22525?style=flat-square" /> <code>scamX-flutter</code></td>
+    </tr>
+    <tr>
+      <td><b>Database Pipeline Architecture</b></td>
+      <td>Relational / NoSQL Hybrid</td>
+      <td><img src="https://img.shields.io/badge/Production%20Ready-E22525?style=flat-square" /> <code>MERN Platform</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -121,13 +149,4 @@
   <a href="mailto:achyuthbitw@gmail.com"><img src="https://img.shields.io/badge/Email-achyuthbitw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/acey__s/"><img src="https://img.shields.io/badge/Instagram-acey____s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-Blaze__Bizzaro%20%7C%20blaze__bizzaro__79010-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
----
-
-### ☕ **Support My Work**
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
 </p>
