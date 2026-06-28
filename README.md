@@ -1,6 +1,6 @@
 <!-- JJK User Uploaded Animated Cinematic Banner -->
 <p align="center">
-  <img src="undefined - Imgur.gif" width="100%" alt="JJK Cinematic Banner" />
+  <img src="sukuna-sukuna-vs-gojo.gif" width="100%" alt="JJK Cinematic Banner" />
 </p>
 
 <!-- Dynamic Typing Status Vector - Swapped to Hollow Purple -->
@@ -18,7 +18,7 @@
 <table border="0" width="100%" style="background-color: #000000; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" style="border-right: 2px solid #8A2BE2; padding-right: 20px;">
-<h3 align="center"><span style="color: #8A2BE2;">🔮 Hollow Purple | Intelligence</span></h3>
+<h3 align="center"><span style="color: #8A2BE2;">🔮Intelligence</span></h3>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0eG5wN3R0NHd0M2E4dHExbTgwazZubWdzcGoxbndwMmE0aDk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7p0qKPII/giphy.gif" width="75%" style="border-radius: 8px; border: 1px solid #8A2BE2;" alt="Gojo Visual" />
 </p>
@@ -28,7 +28,7 @@
 </ul>
 </td>
 <td width="50%" valign="top" style="padding-left: 20px;">
-<h3 align="center"><span style="color: #E22525;">🩸 Cursed Crimson | Execution</span></h3>
+<h3 align="center"><span style="color: #E22525;"> Execution</span></h3>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2dnFwZXZoNmx6YW8xbDJmd205amRjbmhrZGl6NDV5dGhyYTN3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X78rQrII0S2Ff9g9S6/giphy.gif" width="75%" style="border-radius: 8px; border: 1px solid #E22525;" alt="Sukuna Visual" />
 </p>
