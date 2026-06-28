@@ -1,9 +1,9 @@
 <!-- JJK User Uploaded Animated Cinematic Banner -->
 <p align="center">
-  <img src="undefined - Imgur.gif" width="100%" alt="JJK Cinematic Banner" />
+  <img src="sukuna-sukuna-vs-gojo.gif" width="100%" alt="JJK Cinematic Banner" />
 </p>
 
-<!-- Dynamic Typing Status Vector - Swapped to Hollow Purple -->
+<!-- Dynamic Typing Status Vector -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Achyuth+%7C+AI+%2F+ML+Engineer;Designing+Neural+Architectures;Deploying+Scalable+Inference+Pipelines;Welcome+to+the+Domain.+%F0%9F%9A%80" alt="AI Engineering Typing SVG" />
 </h1>
@@ -14,11 +14,11 @@
 
 ---
 
-<!-- Side-by-Side Architectural Split (Crimson & Purple Domain Collapse) -->
+<!-- Side-by-Side Architectural Split -->
 <table border="0" width="100%" style="background-color: #000000; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" style="border-right: 2px solid #8A2BE2; padding-right: 20px;">
-<h3 align="center"><span style="color: #8A2BE2;">🔮 Intelligence</span></h3>
+<h3 align="center"><span style="color: #8A2BE2;">AI & Deep Learning</span></h3>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0eG5wN3R0NHd0M2E4dHExbTgwazZubWdzcGoxbndwMmE0aDk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7p0qKPII/giphy.gif" width="75%" style="border-radius: 8px; border: 1px solid #8A2BE2;" alt="Gojo Visual" />
 </p>
@@ -28,7 +28,7 @@
 </ul>
 </td>
 <td width="50%" valign="top" style="padding-left: 20px;">
-<h3 align="center"><span style="color: #E22525;">🩸 Execution</span></h3>
+<h3 align="center"><span style="color: #E22525;">MLOps & Infrastructure</span></h3>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2dnFwZXZoNmx6YW8xbDJmd205amRjbmhrZGl6NDV5dGhyYTN3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X78rQrII0S2Ff9g9S6/giphy.gif" width="75%" style="border-radius: 8px; border: 1px solid #E22525;" alt="Sukuna Visual" />
 </p>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🛠️ <span style="color: #8A2BE2;">**Technical Stack Matrix**</span>
+### 🛠/🥋 <span style="color: #8A2BE2;">**Technical Stack Matrix**</span>
 
 <table width="100%" style="background-color: #000000;">
   <tr>
@@ -143,12 +143,11 @@
 
 ---
 
-### 📬 <span style="color: #8A2BE2;">**Secure Connection Network**</span>
+### 📬 <span style="color: #8A2BE2;">**Get In Touch**</span>
 
 <p align="center">
-  <a href="mailto:achyuthbitw@gmail.com"><img src="https://img.shields.io/badge/Email-achyuthbitw@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=E22525" /></a>
-  <a href="https://www.instagram.com/acey__s/"><img src="https://img.shields.io/badge/Instagram-acey____s-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2" /></a>
-  <img src="https://img.shields.io/badge/Discord-Blaze__Bizzaro-000000?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:achyuthbitw@gmail.com"><img src="https://img.shields.io/badge/Email-achyuthbitw%40gmail.com-E22525?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/acey__s/"><img src="https://img.shields.io/badge/Instagram-acey____s-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-Blaze__Bizzaro-000000?style=for-the-badge&logo=discord&logoColor=8A2BE2" />
 </p>
-
 
