@@ -1,6 +1,6 @@
-<!-- JJK Gojo vs Sukuna Cyber/Anime Cinematic Banner -->
+<!-- JJK User Uploaded Animated Cinematic Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3M3VtcW14bnZ0N3Z0am05Y293bWZ6NDNidDJpZWh0bW90c2ZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw7T1VInYd0U8/giphy.gif" width="100%" alt="Gojo vs Sukuna Banner" />
+  <img src="undefined - Imgur.gif" width="100%" alt="JJK Cinematic Banner" />
 </p>
 
 <!-- Dynamic Typing Status Vector -->
