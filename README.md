@@ -12,10 +12,6 @@
   <b>Architecting intelligent systems by balancing the infinity of deep learning with the raw execution of data engineering.</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Achyuth27"><img src="https://img.shields.io/github/followers/Achyuth27?label=Followers&style=social" /></a>
-</p>
-
 ---
 
 <!-- Side-by-Side Architectural Split -->
@@ -86,8 +82,7 @@
 ### 📈 **Engine Performance & Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achyuth27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25C3E2&icon_color=25C3E2&text_color=a9b1d6&bg_color=0f141f" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth27&layout=compact&theme=tokyonight&hide_border=true&title_color=E22525&icon_color=E22525&text_color=a9b1d6&bg_color=0f141f" width="48%" alt="Top Languages Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth27&layout=compact&theme=tokyonight&hide_border=true&title_color=E22525&icon_color=E22525&text_color=a9b1d6&bg_color=0f141f&count_private=true" width="60%" alt="Top Languages Stats" />
 </p>
 
 ---
@@ -109,35 +104,28 @@
 * 🕸️ **[chatweave-connect-98](https://github.com/Achyuth27/chatweave-connect-98)**  
   *An advanced network communication tool handling simultaneous connected routing and application data streams smoothly.*
   <br>`TypeScript` `Asynchronous State`
-* 💬 **[chatapplicationn](https://github.com/Achyuth27/chatapplicationn) & [chatapplication](https://github.com/Achyuth27/chatapplication)**  
-  *Web-native real-time multi-room messaging deployments focusing on robust data streaming architectures.*
-  <br>`TypeScript` `Event-Driven Architecture`
 
 #### 📊 Web Infrastructure & Data Analytics
-* 🍎 **[yummy-food-app](https://github.com/Achyuth27/yummy-food-app)**  
-  *Interactive dynamic e-commerce system using robust client-side state machine pipelines for delivery modeling.*
-  <br>`JavaScript` `Dynamic UI` `Web UX`
 * 💼 **[portfolio-using-react](https://github.com/Achyuth27/portfolio-using-react)**  
   *Engineered a modular single-page web asset optimized to map individual software builds and technical engineering expertise.*
   <br>`TypeScript` `React` `Component Optimization`
 * 📈 **[Power-Bi-Projects-](https://github.com/Achyuth27/Power-Bi-Projects-)**  
   *Comprehensive business intelligence analytics suite showcasing complex DAX queries, structured data warehousing, and insight modeling.*
   <br>`Power BI` `Data Visualization` `DAX`
-* 🎓 **[Online-Learning-Plarform-Using-MERN](https://github.com/Achyuth27/Online-Learning-Plarform-Using-MERN)**  
-  *Full-stack scalable educational system featuring automated analytics backend processing and course relational data models.*
-  <br>`MERN Stack` `Express` `MongoDB`
 
 ---
 
 ### 📬 **Secure Connection Network**
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:achyuthbitw@gmail.com"><img src="https://img.shields.io/badge/Email-achyuthbitw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/acey__s/"><img src="https://img.shields.io/badge/Instagram-acey____s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-Blaze__Bizzaro%20%7C%20blaze__bizzaro__79010-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
 
+### ☕ **Support My Work**
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourusername">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
