@@ -1,6 +1,6 @@
 <!-- JJK User Uploaded Animated Cinematic Banner -->
 <p align="center">
-  <img src="sukuna-sukuna-vs-gojo.gif" width="100%" alt="JJK Cinematic Banner" />
+  <img src="undefined - Imgur.gif" width="100%" alt="JJK Cinematic Banner" />
 </p>
 
 <!-- Dynamic Typing Status Vector -->
@@ -102,7 +102,7 @@
     </tr>
     <tr style="border-bottom: 1px solid #222;">
       <td style="padding: 8px; color: #fff;"><b>Cross-Platform UI Frame Rendering</b></td>
-      <td style="padding: 8px; color: #aaa;">60 FPS Stable Target</td>
+      <td style="padding: 8px; color: #aaa;"> 60 FPS Stable Target</td>
       <td style="padding: 8px;"><img src="https://img.shields.io/badge/Maximum-8A2BE2?style=flat-square" /> <code>scamX-flutter</code></td>
     </tr>
     <tr>
@@ -148,6 +148,6 @@
 <p align="center">
   <a href="mailto:achyuthbitw@gmail.com"><img src="https://img.shields.io/badge/Email-achyuthbitw%40gmail.com-E22525?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/acey__s/"><img src="https://img.shields.io/badge/Instagram-acey____s-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-Blaze__Bizzaro-000000?style=for-the-badge&logo=discord&logoColor=8A2BE2" />
+  <a href="https://discord.gg/6tMe67mApF"><img src="https://img.shields.io/badge/Discord-Blaze__Bizzaro-000000?style=for-the-badge&logo=discord&logoColor=8A2BE2" /></a>
 </p>
 
